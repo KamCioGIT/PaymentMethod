@@ -18,4 +18,4 @@ TriggerEvent("PaymentMethod:Open", price, paymentSelected)
 ```
 
 ## Contact
-My discord tag is mirow, feel free to add me if you have quesions :)
+My discord tag is mirow, feel free to add me if you have questions :)
