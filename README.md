@@ -1,5 +1,5 @@
 ## PaymentMethod
-This script provides the users on your server, to decide how they want to pay. This is supported by a nice ui, selfmade in React.
+This script provides the users on your server the feature to decide how they want to pay. This is supported by a nice ui, selfmade in React.
 I saw the design on [GVMP](https://gvmp.de), but the code is selfmade.
 
 ## Preview
